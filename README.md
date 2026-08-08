@@ -4,6 +4,8 @@
 
 ### AI-Powered Adaptive API Gateway
 
+🔗 **[Live Demo](https://sentinel-gateway-6z9t.onrender.com/health)** — try the `/health` endpoint (note: free tier spins down after inactivity, first request may take ~50s)
+
 *Real-time traffic protection, powered by distributed systems engineering and machine learning*
 
 
