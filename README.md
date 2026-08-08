@@ -138,6 +138,9 @@ Benchmarked with **Autocannon** — 100 concurrent connections sustained over 10
 
 The live dashboard shows every registered client with its algorithm, rate limit, and status, plus a real-time feed of the last 20 requests with pass/fail/flagged outcomes — auto-refreshing every few seconds.
 
+
+![Sentinel Dashboard](./dashboard.png.png)
+
 ---
 
 ## 🚀 Getting Started
