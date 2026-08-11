@@ -1,6 +1,6 @@
 async function checkMLAnomaly(requestsPerSec, endpointDiversity, burstScore) {
   try {
-    const res = await fetch('http://localhost:6000/check-anomaly', {
+    const res = await fetch('https://sentinel-ml-1-6b6g.onrender.com/check-anomaly', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
